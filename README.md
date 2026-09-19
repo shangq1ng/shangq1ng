@@ -1,4 +1,4 @@
-# Hi 👋, I'm 'Shangqing'
+# Hi 👋, I'm Shangqing
 
 ### A budding Rust developer
 
