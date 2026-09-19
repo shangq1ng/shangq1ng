@@ -1,18 +1,26 @@
-# Hi 👋, I'm Shangqing
+<div align="center">
 
-### A budding Rust developer
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shangq1ng&label=Profile views&color=0e75b6&style=flat" alt="shangq1ng" /> </p>
+## 🦀 About me
 
-- 🌱 I'm currently learning **Docker**
+- 🌱 Currently learning **Docker**
+- ⚙️ Building backends in **Rust** (Axum, Postgres, Redis)
+- 📫 Reach me: **shangq1ng@duck.com**
 
-- 📫 How to reach me **shangq1ng@duck.com**
+## 🛠️ Stack
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/shangq1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shangq1ng" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=rust,postgres,redis,docker,linux&theme=dark" alt="stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
+## 📊 GitHub stats
 
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shangq1ng&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shangq1ng&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔗 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-shangq1ng-181717?style=for-the-badge&logo=github)](https://github.com/shangq1ng)
