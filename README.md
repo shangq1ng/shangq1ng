@@ -5,7 +5,7 @@
 ## 🦀 About me
 
 - 🌱 Currently learning **Docker**
-- ⚙️ Building backends in **Rust** (Axum, Postgres, Redis)
+- ⚙️ Building backends in **Rust** 
 - 📫 Reach me: **shangq1ng@duck.com**
 
 ## 🛠️ Stack
